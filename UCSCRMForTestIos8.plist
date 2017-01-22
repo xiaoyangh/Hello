@@ -19,7 +19,7 @@
 					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<false/>
-					<key>url</key>
+					<key>https://raw.githubusercontent.com/xiaoyangh/Hello/master/icon_512.png</key>
 					<string></string>
 				</dict>
 				<dict>
@@ -27,7 +27,7 @@
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<false/>
-					<key>url</key>
+					<key>https://raw.githubusercontent.com/xiaoyangh/Hello/master/icon_58.png</key>
 					<string></string>
 				</dict>
 			</array>
