@@ -27,14 +27,14 @@
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<false/>
-					<key>https://raw.githubusercontent.com/xiaoyangh/Hello/master/icon_58.png</key>
+					<key>https://raw.githubusercontent.com/xiaoyangh/Hello/master/icon_57.png</key>
 					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ucs.crmFordev</string>
+				<string>com.ucs.crmFordev.ios8fix</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
